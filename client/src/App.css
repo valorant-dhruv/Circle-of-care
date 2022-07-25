@@ -1,0 +1,6 @@
+.main {
+  background-image: linear-gradient(to bottom right, aqua, beige);
+  background-repeat: repeat;
+  background-size: cover;
+  padding: 15px;
+}
